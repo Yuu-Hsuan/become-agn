@@ -33,9 +33,9 @@ PySC2 需要額外的地圖包來運行自定義的 StarCraft II 小遊戲：
 ### 5.GPU 支援
 * 如果計算量大（例如使用深度神經網絡進行強化學習），建議使用帶 CUDA 支持的 GPU
 * 安裝 GPU 驅動和 CUDA Toolkit：
-  *驅動程序：[NVIDIA 驅動](https://www.nvidia.com/en-us/drivers/)
-  *CUDA Toolkit：[CUDA 開發者工具](https://developer.nvidia.com/cuda-downloads)
-  *安裝深度學習框架（如 PyTorch 或 TensorFlow）支持 GPU 計算
+  * 驅動程序：[NVIDIA 驅動](https://www.nvidia.com/en-us/drivers/)
+  * CUDA Toolkit：[CUDA 開發者工具](https://developer.nvidia.com/cuda-downloads)
+  * 安裝深度學習框架（如 PyTorch 或 TensorFlow）支持 GPU 計算
 
 ### 6.測試安裝
 運行以下命令測試 PySC2 是否正確安裝：
