@@ -12,6 +12,7 @@ pip install pysc2
 ```
  ### 2.下載 GitHub 程式碼
 1. 使用 Git 克隆專案
+   
    如果未安裝 `git`，請先安裝它（Anaconda 默認應該已包含）。然後執行以下命令克隆 GitHub 專案到本地：
 ```
 git clone <GitHub 專案網址>
@@ -23,6 +24,7 @@ git clone https://github.com/deepmind/pysc2.git
 cd pysc2
 ```
 2. 手動下載
+   
    若無法使用 Git，可以直接到 GitHub 頁面，點擊右上方的 "Code" 按鈕並選擇 "Download ZIP"，然後解壓到目標目錄
 
 ### 3.檢查並安裝依賴
