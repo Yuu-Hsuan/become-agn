@@ -4,11 +4,11 @@
 ### 1. Anaconda
 使用anaconda 建構新環境，python版本為`3.10.14`
 ```bash
-conda create -n agnsc python=3.10.14
+conda create -n smac python=3.10.14
 ```
 激活環境
 ```bash
-conda activate agnsc
+conda activate smac
 ```
 
 ### 2. 安裝SMAC
