@@ -16,11 +16,12 @@
 ### PYSC2:
   
 * 研究進度:尚未創建環境(煩死了)
-  1. 方法 :
-     [使用靈活的框架](https://github.com/google-deepmind/pysc2?tab=readme-ov-file#pysc2---starcraft-ii-learning-environment)
-     允許集成自定義模型（AGN）處理來自StarCraft II的地圖觀測數據和特徵
-  2. 概述:
- 
-     (之後寫)
+1. 方法 :
+   [使用靈活的框架](https://github.com/google-deepmind/pysc2?tab=readme-ov-file#pysc2---starcraft-ii-learning-environment)
+   允許集成自定義模型（AGN）處理來自StarCraft II的地圖觀測數據和特徵
+   
+3. 概述:
+
+ (之後寫)
      
-  3. 是偏向 小遊戲 的套件
+3. 是偏向 小遊戲 的套件
