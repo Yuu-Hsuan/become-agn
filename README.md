@@ -4,11 +4,15 @@
 
 ## 有SMAC與PYSC2兩種
 1. SMAC:
+  
+   研究進度:打開了map
    
    又分為電腦是否有配置nvidia 顯卡
    1. 有顯卡
    2. 無險卡
-3. PYSC2:
+2. PYSC2:
+  
+   研究進度:尚未創建環境(煩死了)
    
    1. 方法 :
       [使用靈活的框架](https://github.com/google-deepmind/pysc2?tab=readme-ov-file#pysc2---starcraft-ii-learning-environment)
