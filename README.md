@@ -2,7 +2,7 @@
 
 我哪知道啊
 
-## 有SMAC與PYSC2兩種
+## 有SMAC與PYSC2
 
 ### SMAC:
   
