@@ -16,6 +16,8 @@
 ### PYSC2:
   
 * 研究進度:尚未創建環境(煩死了)
+  * DQN : (還沒找到辦法打開)
+  * pysc2 : (還沒找到辦法打開)
 1. 方法 :
    [使用靈活的框架](https://github.com/google-deepmind/pysc2?tab=readme-ov-file#pysc2---starcraft-ii-learning-environment)
    允許集成自定義模型（AGN）處理來自StarCraft II的地圖觀測數據和特徵
