@@ -43,6 +43,11 @@ pip install sacred pyyaml tensorboard_logger cloudpickle protobuf==3.20.1
 
 放入`~/StarCraft II/Maps/`
 
+資料夾怎麼找到，看[這裡](https://github.com/Yuu-Hsuan/become-agn/blob/main/SC/%E6%89%BEStarCraft%20II%20%E8%A2%AB%E5%AD%98%E5%9C%A8%E5%93%AA%E8%A3%A1.md)
+
+一般情況下需要再創一個`Maps`的資料夾放入即可
+
+
 ### 9. 更改Numpy和scipy版本
 因為原本的版本太新(我看是numpy-1.26.4)，會出現`module 'numpy' has no attribute 'bool'.`，
 
