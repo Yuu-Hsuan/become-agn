@@ -30,5 +30,5 @@ code
  2. 法二 :
     右鍵點擊程式碼，選 Run Python File Terminal
 
-### 檢查 anaconda 環境是否正常工作
+### 檢查 python 是否在環境中執行
 (資料加載中...)
