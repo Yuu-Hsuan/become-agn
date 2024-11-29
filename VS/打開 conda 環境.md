@@ -22,7 +22,12 @@ code
 
 3. 執行程式碼:
 
-  1. 法一 : 
-     按`ctrl`+`shift`+`D` 進入 "Run and Debug" 頁面
-    
-     選擇 Python File 做為執行目標
+   1. 法一 :
+
+      按`ctrl`+`shift`+`D` 進入 "Run and Debug" 頁面
+
+      選擇 Python File 做為執行目標
+ 2. 法二 :
+    右鍵點擊程式碼，選 Run Python File Terminal
+
+### 檢查 anaconda 環境是否正常工作
