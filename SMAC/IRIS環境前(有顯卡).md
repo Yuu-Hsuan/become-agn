@@ -1,4 +1,4 @@
-# 環境名稱:agnsc
+## 環境名稱:smac
 ##[來源](https://github.com/Taiyopen/IRIS_SMAC_Tutorial/blob/master/README.md)
 
 ### 1. Anaconda
