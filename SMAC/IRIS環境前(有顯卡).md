@@ -10,6 +10,9 @@ conda create -n smac python=3.10.14
 ```bash
 conda activate smac
 ```
+'''
+strdsj
+'''
 
 ### 2. 安裝SMAC
 ```bash
