@@ -39,13 +39,12 @@ pip install sacred pyyaml tensorboard_logger cloudpickle protobuf==3.20.1
 ```
 
 ### 8. 下載SMAC地圖至StarCraft資料夾
-地圖下載https://github.com/oxwhirl/smac/releases/tag/v1
+先下載"地圖檔案" : https://github.com/oxwhirl/smac/releases/tag/v1
 
-放入`~/StarCraft II/Maps/`
+先抵達StarCraft II 資料夾，路徑通常在"C:\Program Files (x86)\StarCraft II"
+如果不是此路徑，請看[這裡](https://github.com/Yuu-Hsuan/become-agn/blob/main/SC/%E6%89%BEStarCraft%20II%20%E8%A2%AB%E5%AD%98%E5%9C%A8%E5%93%AA%E8%A3%A1.md)
 
-資料夾怎麼找到，看[這裡](https://github.com/Yuu-Hsuan/become-agn/blob/main/SC/%E6%89%BEStarCraft%20II%20%E8%A2%AB%E5%AD%98%E5%9C%A8%E5%93%AA%E8%A3%A1.md)
-
-一般情況下需要再創一個`Maps`的資料夾放入即可
+在StarCraft II 資料夾中新增一個名叫`Maps`的資料夾，再將"地圖檔案"解壓縮放進`Maps`。
 
 
 ### 9. 更改Numpy和scipy版本
