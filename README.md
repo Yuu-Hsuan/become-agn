@@ -22,10 +22,9 @@
   2. step2 :
      激活虛擬環境，在虛擬環境中輸入地圖位置，並打開地圖。請按[這裡](https://github.com/Yuu-Hsuan/become-agn/blob/main/SMAC/%E5%BE%8C.md)
 
-  3. 注意 : SMAC地圖觀察 
-     資料夾中每個[地圖觀察](https://github.com/Yuu-Hsuan/become-agn/blob/main/SMAC/%E5%9C%B0%E5%9C%96%E8%A7%80%E5%AF%9F.md)
+     p.s.每張地圖有不同的我方和敵方數量，標示在:[各地圖資訊](https://github.com/Yuu-Hsuan/become-agn/blob/main/SMAC/%E5%90%84%E5%9C%B0%E5%9C%96%E8%B3%87%E8%A8%8A.md)
      
-## PYSC2:
+## PYSC2 : 此專案已成功套用reinforcement learning，目前github中有關的專案都是引用此專案。
   
 * 研究進度 : 尚未創建環境(煩死了)
   * DQN : (還沒找到辦法打開)
