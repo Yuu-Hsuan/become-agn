@@ -22,7 +22,7 @@
   2. step2:
      需要告訴環境地圖的位置，即可打開地圖，請按[這裡](https://github.com/Yuu-Hsuan/become-agn/blob/main/SMAC/%E5%BE%8C.md)
 
-  3. SMAC地圖觀察 :
+  3. 注意 : SMAC地圖觀察 
      資料夾中每個[地圖觀察](https://github.com/Yuu-Hsuan/become-agn/blob/main/SMAC/%E5%9C%B0%E5%9C%96%E8%A7%80%E5%AF%9F.md)
      
 ### PYSC2:
