@@ -20,7 +20,7 @@
 
 
   2. step2:
-     需要告訴環境地圖的位置，即可打開地圖，請善[這裡](https://github.com/Yuu-Hsuan/become-agn/blob/main/SMAC/%E5%BE%8C.md)
+     需要告訴環境地圖的位置，即可打開地圖，請按[這裡](https://github.com/Yuu-Hsuan/become-agn/blob/main/SMAC/%E5%BE%8C.md)
      
 ### PYSC2:
   
