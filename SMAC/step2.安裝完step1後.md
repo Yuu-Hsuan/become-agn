@@ -1,4 +1,4 @@
-#設置地圖路徑
+# 設置地圖路徑
 1. 進入Anaconda prompt
    
    進入python環境
@@ -27,7 +27,7 @@
    env = StarCraft2Env(map_name="3m")
    ```
    ```
-   # 開啟環境
+   #開啟環境
    env.reset()
 
    #關閉環境 
