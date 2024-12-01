@@ -15,8 +15,8 @@
      
      請依據你的電腦是否有顯卡進行選擇
      
-     1. [有顯卡](https://github.com/Yuu-Hsuan/become-agn/blob/main/SMAC/IRIS%E7%92%B0%E5%A2%83%E5%89%8D(%E6%9C%89%E9%A1%AF%E5%8D%A1).md)
-     2. [無顯卡](https://github.com/Yuu-Hsuan/become-agn/blob/main/SMAC/IRIS%E7%92%B0%E5%A2%83%E5%89%8D(%E7%84%A1%E9%A1%AF%E5%8D%A1).md)(是窮逼也沒關係)
+     1. [有顯卡](https://github.com/Yuu-Hsuan/become-agn/blob/main/SMAC/step1.IRIS%E7%92%B0%E5%A2%83%E5%89%8D(%E6%9C%89%E9%A1%AF%E5%8D%A1).md)
+     2. [無顯卡](https://github.com/Yuu-Hsuan/become-agn/blob/main/SMAC/step1.IRIS%E7%92%B0%E5%A2%83%E5%89%8D(%E7%84%A1%E9%A1%AF%E5%8D%A1).md)(是窮逼也沒關係)
 
 
   2. step2 :
