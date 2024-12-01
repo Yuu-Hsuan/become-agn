@@ -25,7 +25,7 @@
   3. 注意 : SMAC地圖觀察 
      資料夾中每個[地圖觀察](https://github.com/Yuu-Hsuan/become-agn/blob/main/SMAC/%E5%9C%B0%E5%9C%96%E8%A7%80%E5%AF%9F.md)
      
-### PYSC2:
+## PYSC2:
   
 * 研究進度 : 尚未創建環境(煩死了)
   * DQN : (還沒找到辦法打開)
