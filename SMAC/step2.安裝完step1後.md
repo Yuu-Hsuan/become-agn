@@ -19,7 +19,7 @@
    ```
    from smac.env import StarCraft2Env
    ```
-   # "3m"為地圖名稱，可替換其他地圖，例如'8m' 等( 各地圖的介紹在:[這裡](https://github.com/Yuu-Hsuan/become-agn/blob/main/SMAC/%E5%90%84%E5%9C%B0%E5%9C%96%E8%B3%87%E8%A8%8A.md) )
+   "3m"為地圖名稱，可替換其他地圖，例如'8m' 等( 各地圖的介紹在:[這裡](https://github.com/Yuu-Hsuan/become-agn/blob/main/SMAC/%E5%90%84%E5%9C%B0%E5%9C%96%E8%B3%87%E8%A8%8A.md) )
    ```
    env = StarCraft2Env(map_name="3m")
    ```
