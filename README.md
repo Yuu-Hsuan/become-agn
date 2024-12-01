@@ -10,14 +10,17 @@
 
 * 架設環境到打開地圖
   1. step1:
+  2. 
      又分為電腦是否有配置nvidia 顯卡
      
      請依據你的電腦是否有顯卡進行選擇
      
      1. [有顯卡](https://github.com/Yuu-Hsuan/become-agn/blob/main/SMAC/IRIS%E7%92%B0%E5%A2%83%E5%89%8D(%E6%9C%89%E9%A1%AF%E5%8D%A1).md)
      2. [無險卡](https://github.com/Yuu-Hsuan/become-agn/blob/main/SMAC/IRIS%E7%92%B0%E5%A2%83%E5%89%8D(%E7%84%A1%E9%A1%AF%E5%8D%A1).md)(是窮逼也沒關係)
-2. step2:
-   需要告訴環境地圖的位置，即可打開地圖，請善[這裡](https://github.com/Yuu-Hsuan/become-agn/blob/main/SMAC/%E5%BE%8C.md)
+
+  2. step2:
+     需要告訴環境地圖的位置，即可打開地圖，請善[這裡](https://github.com/Yuu-Hsuan/become-agn/blob/main/SMAC/%E5%BE%8C.md)
+     
 ### PYSC2:
   
 * 研究進度 : 尚未創建環境(煩死了)
