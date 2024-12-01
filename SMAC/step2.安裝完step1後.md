@@ -2,19 +2,22 @@
 1. 進入Anaconda prompt
    
    進入python環境
+   
    輸入:
    ```
    python 
    ```
 
-2. 配置環境變量
+3. 配置環境變量
+4. 
    輸入:
     ```
     import os
     os.environ["SC2PATH"] = "C:\\Program Files (x86)\\StarCraft II"
     ```
 
-3. 測試是否可以成功載入地圖
+5. 測試是否可以成功載入地圖
+6. 
    輸入:
    ```
    from smac.env import StarCraft2Env
