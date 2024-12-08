@@ -28,9 +28,9 @@
    cd SC2-RL
    ```
    
-2. 安裝相依套件 : 根據專案中的 `requirements.txt` 安裝必要套件
+2. 安裝相依套件 : 
    ```
-   pip install -r requirements.txt
+   pip install numpy tensorflow pysc2 matplotlib
    ```
    
 3. 配置 StarCraft II 環境
