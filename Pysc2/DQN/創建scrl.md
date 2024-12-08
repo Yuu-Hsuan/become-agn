@@ -33,6 +33,8 @@
    pip install numpy tensorflow pysc2 matplotlib
    ```
    
+   安裝完成後，執行以下指令確認套件是否正確安裝 : 應該會看到剛剛安裝的套件，例如 `numpy`、`tensorflow` 等列在清單中
+   
 3. 配置 StarCraft II 環境
    
    * 安裝 StarCraft II（SC2）遊戲，前往 Blizzard 官網 下載
