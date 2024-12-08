@@ -12,7 +12,7 @@
    
 2. 啟用虛擬環境
    ```bash
-   conda activate dqnsc
+   conda activate scrl
    ```
 
 3. 安裝必要工具 : 在虛擬環境中安裝 `git` 和 `pip`
