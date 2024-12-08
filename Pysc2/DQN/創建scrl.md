@@ -52,10 +52,10 @@
         exit()
 
    * 降級版本
-      *  降級 protobuf 套件到 3.20.x 或更低版本
-        ```
-        pip install protobuf==3.20.*
-        ```
+     降級 protobuf 套件到 3.20.x 或更低版本
+     ```
+     pip install protobuf==3.20.*
+     ```
 
      
    
