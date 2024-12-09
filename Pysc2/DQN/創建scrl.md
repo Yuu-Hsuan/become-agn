@@ -7,7 +7,7 @@
 
 1. 使用anaconda prompt 建構新環境，python版本為`3.8`
    ```bash
-   conda create -n dscrl python=3.8 -y
+   conda create -n scrl python=3.8 -y
    ```
    
 2. 啟用虛擬環境
