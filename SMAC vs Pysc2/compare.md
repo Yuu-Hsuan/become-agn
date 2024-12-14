@@ -1,6 +1,6 @@
 # [SMAC](https://github.com/oxwhirl/smac/tree/master)及[PySC2](https://github.com/nicoladainese96/SC2-RL)比較
 
-## 目標 : 讓 PySC2 變得像 SMAC 一樣好用和專業，但只針對「單代理人」的設計
+## 目標 : 讓 PySC2 變得像 SMAC 一樣好用和專業，且只針對「單代理人」的設計
 不考慮SMAC的多代理人，專注於讓Pysc2的單代理人能夠完成有挑戰的任務。因此需要補充一些功能，讓 PySC2 不僅靈活，還能更容易使用、更適合訓練 AI  
 
 ## 初步比較
