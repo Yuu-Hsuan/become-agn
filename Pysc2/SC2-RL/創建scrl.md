@@ -1,5 +1,6 @@
 # 環境名稱:scrl
 ##[來源](https://github.com/nicoladainese96/SC2-RL)
+DQN 的概念
 
 ## 從環境架設到在遊戲上執行
 
