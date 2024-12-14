@@ -21,15 +21,15 @@ PySC2 的動作是低層次的，比如選擇單位並指定目標位置，還�
      這樣使用者只需要提供角色和目標位置，底層會自動處理
 
 2. 自動攻擊敵人
-* 讓角色自動選擇最近的敵人並攻擊：
-* python
-  ```
-  def auto_attack(unit_id, enemy_units):
-  # 選擇最近敵人
-  target = find_closest_enemy(unit_id, enemy_units)
-  return FunctionCall(ATTACK_SCREEN, [unit_id, target.position])
-  ```
-  這樣使用者只需告訴角色「攻擊」，不必指定細節
+   * 讓角色自動選擇最近的敵人並攻擊：
+   * python
+     ```
+     def auto_attack(unit_id, enemy_units):
+     # 選擇最近敵人
+     target = find_closest_enemy(unit_id, enemy_units)
+     return FunctionCall(ATTACK_SCREEN, [unit_id, target.position])
+     ```
+     這樣使用者只需告訴角色「攻擊」，不必指定細節
 
 * 提供預設動作模板：
   
