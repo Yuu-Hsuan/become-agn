@@ -15,10 +15,10 @@ PySC2 的動作是低層次的，比如選擇單位並指定目標位置，還�
    * python
      ```
      def move_to(unit_id, target_position):
-    # 指定單位移動到目標座標
-    return FunctionCall(MOVE_SCREEN, [unit_id, target_position])
-   ```
-   這樣使用者只需要提供角色和目標位置，底層會自動處理
+     # 指定單位移動到目標座標
+     return FunctionCall(MOVE_SCREEN, [unit_id, target_position])
+     ```
+     這樣使用者只需要提供角色和目標位置，底層會自動處理
 
 2. 自動攻擊敵人
 * 讓角色自動選擇最近的敵人並攻擊：
