@@ -4,7 +4,7 @@
 
 # 有SMAC與PYSC2
 
-## SMAC:
+## SMAC
   
 * 研究進度 : 打開了map
 
