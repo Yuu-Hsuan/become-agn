@@ -24,7 +24,9 @@
 
      p.s.每張地圖有不同的我方和敵方數量，標示在:[各地圖資訊](https://github.com/Yuu-Hsuan/become-agn/blob/main/SMAC/%E5%90%84%E5%9C%B0%E5%9C%96%E8%B3%87%E8%A8%8A.md)
      
-## Pysc2 資料夾中有 "SC2-RL"和 "othearticle"
+## Pysc2 
+資料夾中有 `"SC2-RL"`和 `"othearticle"`
+
 * ["pysc2"](https://github.com/google-deepmind/pysc2?tab=readme-ov-file#pysc2---starcraft-ii-learning-environment)此為`SC2-RL`資料夾中的開源:
 
   此專案已成功套用reinforcement learning，可套用多個應用，例如:cmo、starcraft等等，目前github中有關的專案都是引用此專案
