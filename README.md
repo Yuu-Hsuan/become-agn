@@ -24,15 +24,21 @@
 
      p.s.每張地圖有不同的我方和敵方數量，標示在:[各地圖資訊](https://github.com/Yuu-Hsuan/become-agn/blob/main/SMAC/%E5%90%84%E5%9C%B0%E5%9C%96%E8%B3%87%E8%A8%8A.md)
      
-## Pysc2 資料夾中有 "pysc2"和 "DQN"
-["pysc2"](https://github.com/google-deepmind/pysc2?tab=readme-ov-file#pysc2---starcraft-ii-learning-environment): 此專案已成功套用reinforcement learning，可套用多個應用，例如:cmo、starcraft等等，目前github中有關的專案都是引用此專案。
+## Pysc2 資料夾中有 "SC2-RL"和 "othearticle"
+* ["pysc2"](https://github.com/google-deepmind/pysc2?tab=readme-ov-file#pysc2---starcraft-ii-learning-environment)此為`SC2-RL`資料夾中的開源:
 
-["DQN"](https://github.com/nicoladainese96/SC2-RL):成功將"pysc2"應用在starcraft。
-(12/1目前目標是將此檔案打開)
+  此專案已成功套用reinforcement learning，可套用多個應用，例如:cmo、starcraft等等，目前github中有關的專案都是引用此專案
 
-* 研究進度 : 尚未創建環境(煩死了)
-  * DQN : (還沒找到辦法打開)
-  * pysc2 : (還沒找到辦法打開)
+* ["SC2-RL"](https://github.com/nicoladainese96/SC2-RL):
+
+  成功將"pysc2"應用在starcraft
+
+
+* 2024/12/15 研究進度 : 
+  * 已大致構想出要怎麼把`Pysc2`變成如同`SMAC`一樣完善
+  * 已找到相關開源可參考
+  * 欲找到變更pysc2環境參數的辦法
+    
 1. 方法 :
    [使用靈活的框架](https://github.com/google-deepmind/pysc2?tab=readme-ov-file#pysc2---starcraft-ii-learning-environment)
    允許集成自定義模型（AGN）處理來自StarCraft II的地圖觀測數據和特徵
