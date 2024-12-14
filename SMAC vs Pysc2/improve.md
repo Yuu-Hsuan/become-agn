@@ -13,8 +13,8 @@
    * python
      ```
      def move_to(unit_id, target_position):
-     # 指定單位移動到目標座標
-     return FunctionCall(MOVE_SCREEN, [unit_id, target_position])
+        # 指定單位移動到目標座標
+        return FunctionCall(MOVE_SCREEN, [unit_id, target_position])
      ```
      這樣使用者只需要提供角色和目標位置，底層會自動處理
 
